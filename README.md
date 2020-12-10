@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+Nice to meet you! liubaoge here,we share the same passion for code.
